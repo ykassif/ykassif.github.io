@@ -1,0 +1,23 @@
+BATs Force
+Software Engineering Intern
+Developing and maintaining suite of programming tools for dealing with language-tagged data
+Maintaining organization of all research group data and running new data through pre-processing pipelines
+Applying statistical modeling and computational methods to language translation identification tags
+
+UT Austin - Cryogenics
+Data Intern
+Conducted computational analysis with a variety of variables for physics cryogenics cooling research.
+Built internal laboratory cryogenic material asset tracking system for department wide research activities
+General laboratory computer hardware and software troubleshooting and maintenance
+
+UT Austin - Pharmacology
+Research Assistant
+Built internal laboratory chemical database for the tracking of material usage in medicinal research
+Created protien 3d printing cura and chimera templates utilized to streamline future 3d printing processes
+Produced and edited animations of chemical protein simulations in 3d space to be utilized in education
+
+VDMIS Inc.
+Technology Intern
+Built Android to CMM Machine remote IR app allowing for better control of the metrology machine wirelessly.
+Built internal company database for tracking of hardware compenent and software license sales.
+Assembled metrology machine computers that connected to the Renishaw sensors for pre-programming.
